@@ -1,5 +1,4 @@
- ## <i>Hello, World ! 👋
-
+<h1 align="center">Hello, World . . . !!! 👋 I'am </h1>
 <!--
 **helloariq/helloariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
