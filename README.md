@@ -1,4 +1,5 @@
 <h1 align="center">Hello, World . . . !!! 👋 I'am </h1>
+<p align="center"><img width=80% src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZsMXIwNjB1dGZvYXVhemo1aWQzbzVtM253anVkZTJ4MmhqM29hYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"></p>
 <!--
 **helloariq/helloariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
