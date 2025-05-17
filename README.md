@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World . . . !!! 👋</h1>
-<p align="center"><img width=80% src="https://github.com/helloariq/helloariq/tree/main/Animation/AnimationRIQRev.gif"></p>
+<p align="center"><img width=80% src="Animation/AnimationRIQRev.gif"></p>
 
 I’m a tech content creator sharing tutorials and tips on programming, creative design, productivity tools, and computer networking to help people level up their digital skills.
 
