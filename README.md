@@ -3,8 +3,8 @@
 
 I’m a tech content creator sharing tutorials and tips on programming, creative design, productivity tools, and computer networking to help people level up their digital skills.
 
-### Skills and Languages
-#### 👨‍💻 Programming Languages, Frameworks & Library
+## Skills and Languages
+### 👨‍💻 Programming Languages, Frameworks & Library
 <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,14 +20,14 @@ I’m a tech content creator sharing tutorials and tips on programming, creative
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🛠️ Technical software
+### 🛠️ Technical software
 <p align='center'>
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 </p>
 
-### Social Media
+## Social Media
 
 ## Skills and Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
