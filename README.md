@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World . . . !!! 👋</h1>
 <p align="center"><img width=80% src="Animation/AnimationRIQRev.gif"></p>
-
+dgsdgdsgsdgsdgsd
 I’m a tech content creator sharing tutorials and tips on programming, creative design, productivity tools, and computer networking to help people level up their digital skills.
 
 ## Skills and Languages
